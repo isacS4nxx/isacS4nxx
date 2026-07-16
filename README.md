@@ -1,4 +1,4 @@
-# Hi, I'm Isac 👋
+# Hi, I'm Isac 
 
 DevOps Engineer focused on Linux, containers, and automation. Self-taught since 2014 — started with Slackware, currently on Fedora, always learning something new and pushing it here.
 
